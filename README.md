@@ -32,3 +32,28 @@ A Streamlit app is included for real-time simulation and visualization.
 ---
 
 ## 📂 Project Structure
+📁 prizo-dynamic-pricing
+│
+├── streamlit_app.py        # Streamlit UI (live app)
+├── main.py                 # Offline simulation experiments
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation
+
+---
+
+## 🧠 Algorithms Used
+Epsilon-Greedy, UCB1, Thompson Sampling
+
+## 💸 Reward
+Profit-aware reward = revenue after discount – cost
+## ▶️ Run the Project Locally
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+Run the Streamlit app:streamlit run streamlit_app.py
+## 👤 Author
+Madhupa Vinod   
+MSc Data Science – Christ University
+
+
