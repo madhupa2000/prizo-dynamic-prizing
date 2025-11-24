@@ -1,0 +1,34 @@
+# 🍔 Prizo – Dynamic Pricing using Reinforcement Learning
+
+**Multi-Armed Bandits for Profit-Aware Discounts in Food Delivery**
+
+🔗 **Live Demo:**  
+https://prizo-dynamic-prizing-x598itxyalyvmjx78pmwzr.streamlit.app/
+
+---
+
+## 📌 Overview
+Prizo is a reinforcement learning–based dynamic pricing system for food delivery platforms.  
+Instead of using fixed discounts, it learns which discount level maximizes **profit** using:
+
+- **Epsilon-Greedy**
+- **UCB1**
+- **Thompson Sampling** (best performer)
+
+The system models discount selection as a **Multi-Armed Bandit (MAB)** problem with a **profit-aware reward function** and supports **non-stationary user behavior**.
+
+A Streamlit app is included for real-time simulation and visualization.
+
+---
+
+## 🚀 Features
+- Profit-aware rewards  
+- Multi-armed bandit algorithms  
+- Non-stationary drift simulation  
+- Interactive Streamlit dashboard  
+- Offline experiment script  
+- Deployment-ready project  
+
+---
+
+## 📂 Project Structure
