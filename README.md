@@ -61,7 +61,7 @@ streamlit run streamlit_app.py
 
 👤 Author
 
-Madhupa Vinod
+Madhupa Vinod,
 MSc Data Science – Christ University
 
 
