@@ -48,12 +48,20 @@ Epsilon-Greedy, UCB1, Thompson Sampling
 Profit-aware reward = revenue after discount – cost
 ## ▶️ Run the Project Locally
 
+▶️ Run the Project Locally
+
 Install dependencies:
-```bash
+
 pip install -r requirements.txt
-Run the Streamlit app:streamlit run streamlit_app.py
-## 👤 Author
-Madhupa Vinod   
+
+
+Run the Streamlit app:
+
+streamlit run streamlit_app.py
+
+👤 Author
+
+Madhupa Vinod
 MSc Data Science – Christ University
 
 
